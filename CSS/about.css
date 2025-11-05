@@ -1,0 +1,19 @@
+/* About Page Styles */
+.about-details {
+  margin-top: 15px;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  border-top: 3px dotted #efe0d0;
+}
+.about-details ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+.about-image-container {
+  display: flex;
+}
+.about-image {
+  width: 33%;
+  height: 70%;
+}

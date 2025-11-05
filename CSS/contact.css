@@ -1,0 +1,12 @@
+/* Contact Page Styles */
+.contact-info {
+  padding-top: 16px;
+}
+.contact-image-container {
+  display: flex;
+  padding-bottom: 15px;
+}
+.contact-image {
+  width: 30%;
+  height: 70%;
+}
